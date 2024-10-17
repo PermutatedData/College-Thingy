@@ -1,0 +1,16 @@
+{
+    "MIT": {
+        "appType": "dream",
+        "deadline": "9/1/2024",
+        "site": "MIT",
+        "major": "Electrical Engineering",
+        "progress": "finished"
+    },
+    "UC Berkeley": {
+        "appType": "reach",
+        "deadline": "1/1/1",
+        "site": "UC",
+        "major": "Electrical",
+        "progress": "in progress"
+    }
+}
