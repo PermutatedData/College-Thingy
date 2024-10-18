@@ -341,6 +341,8 @@ while True:
         else:
             data.pop(college)
             
+            print("\n" + college + " deleted")
+            
             with open("data.json", "w", encoding= "utf-8") as f:
                 f.write(json.dumps(data, ensure_ascii= False, indent= 4))
             
