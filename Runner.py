@@ -30,7 +30,7 @@ KEYS = ("appType", "deadline", "site", "major", "progress")
 KEY_STRINGS = ("Safety, reach, or dream", "Deadline", "Application site", "Major", "Progress")
 NOTFOUND = "N/A" #can probably be defeated
 
-CORRUPTION_MESSAGE = "Error in JSON. Make sure all colleges follow the template entry"
+CORRUPTION_MESSAGE = "Error in JSON. Check that all colleges follow the template entry"
 
 
 data = {}
